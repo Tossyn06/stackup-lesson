@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  font-family:Arial, Helvetica, sans-serif ;
+  font-size: 16px;
+}
+h1{
+  background-color: #ff6a6a;
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding: 2px;
+}
+section h2{
+  background-color: #fff4f4;
+  color: #ff6a6f;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  padding: 2px;
+}
+table{
+  width: 80%;
+}
+img{
+  width: 80%;
+}
+h2{
+    background-color: #fff4f4;
+  color: #ff6a6f;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  padding: 2px;
+}
+a{
+  color: #ff6a6a;
+  font-weight: bold;
+  text-decoration:none;
+}
+a:active{
+  color: greenyellow;
+  font-weight: bold;
+}
+a:visted{
+  color: blueviolet;
+  font-weight: bold;
+}
+a:hover{
+  color: #ba4d4d;
+}
+nav{
+  text-align: center;
+}
+footer{
+  font-size: 12px;
+}
